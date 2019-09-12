@@ -1,0 +1,290 @@
+2019-09-12 09:00:26.128  INFO 220 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 220 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:00:26.163  INFO 220 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:00:26.476  INFO 220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:00:26.476  INFO 220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:00:31.889  INFO 220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:00:32.043  INFO 220 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:00:32.044  INFO 220 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:00:32.379  INFO 220 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:00:32.379  INFO 220 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5902 ms
+2019-09-12 09:00:33.219  INFO 220 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:00:33.935  INFO 220 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:00:34.042  INFO 220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:00:34.083  INFO 220 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 10.484 seconds (JVM running for 15.356)
+2019-09-12 09:02:50.221  INFO 3708 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 3708 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:02:50.224  INFO 3708 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:02:50.264  INFO 3708 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:02:50.265  INFO 3708 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:02:51.192  INFO 3708 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:02:51.214  INFO 3708 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:02:51.214  INFO 3708 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:02:51.332  INFO 3708 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:02:51.333  INFO 3708 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1068 ms
+2019-09-12 09:02:51.523  INFO 3708 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:02:51.658  INFO 3708 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:02:51.706  INFO 3708 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:02:51.709  INFO 3708 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.922 seconds (JVM running for 2.701)
+2019-09-12 09:03:02.268  INFO 3708 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:03:02.268  INFO 3708 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:03:02.275  INFO 3708 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-12 09:03:02.333  INFO 3708 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:06:16.936  INFO 12912 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 12912 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:06:16.938  INFO 12912 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:06:16.978  INFO 12912 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:06:16.981  INFO 12912 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:06:18.188  INFO 12912 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:06:18.207  INFO 12912 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:06:18.208  INFO 12912 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:06:18.325  INFO 12912 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:06:18.326  INFO 12912 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1345 ms
+2019-09-12 09:06:18.505  INFO 12912 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:06:18.648  INFO 12912 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:06:18.687  INFO 12912 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:06:18.690  INFO 12912 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 2.265 seconds (JVM running for 3.23)
+2019-09-12 09:06:27.888  INFO 12912 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:06:27.888  INFO 12912 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:06:27.894  INFO 12912 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:06:27.911  INFO 12912 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:08:27.027  INFO 12620 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 12620 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:08:27.030  INFO 12620 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:08:27.075  INFO 12620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:08:27.075  INFO 12620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:08:28.057  INFO 12620 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:08:28.076  INFO 12620 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:08:28.076  INFO 12620 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:08:28.185  INFO 12620 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:08:28.186  INFO 12620 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1111 ms
+2019-09-12 09:08:28.356  INFO 12620 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:08:28.489  INFO 12620 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:08:28.526  INFO 12620 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:08:28.529  INFO 12620 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.884 seconds (JVM running for 2.691)
+2019-09-12 09:08:58.433  INFO 12620 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:08:58.434  INFO 12620 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:08:58.440  INFO 12620 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-12 09:08:58.456  INFO 12620 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:14:47.687  INFO 8740 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 8740 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:14:47.690  INFO 8740 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:14:47.734  INFO 8740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:14:47.734  INFO 8740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:14:48.717  INFO 8740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:14:48.736  INFO 8740 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:14:48.736  INFO 8740 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:14:48.850  INFO 8740 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:14:48.851  INFO 8740 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1117 ms
+2019-09-12 09:14:49.019  INFO 8740 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:14:49.156  INFO 8740 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:14:49.195  INFO 8740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:14:49.198  INFO 8740 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.954 seconds (JVM running for 2.867)
+2019-09-12 09:15:25.100  INFO 9084 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 9084 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:15:25.103  INFO 9084 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:15:25.144  INFO 9084 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:15:25.145  INFO 9084 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:15:26.056  INFO 9084 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:15:26.074  INFO 9084 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:15:26.075  INFO 9084 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:15:26.190  INFO 9084 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:15:26.190  INFO 9084 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1045 ms
+2019-09-12 09:15:26.381  INFO 9084 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:15:26.515  INFO 9084 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:15:26.554  INFO 9084 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:15:26.557  INFO 9084 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.929 seconds (JVM running for 2.799)
+2019-09-12 09:15:32.195  INFO 9084 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:15:32.195  INFO 9084 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:15:32.201  INFO 9084 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:15:32.218  INFO 9084 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:15:54.162  INFO 10596 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 10596 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:15:54.165  INFO 10596 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:15:54.205  INFO 10596 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:15:54.205  INFO 10596 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:15:55.133  INFO 10596 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:15:55.152  INFO 10596 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:15:55.152  INFO 10596 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:15:55.261  INFO 10596 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:15:55.261  INFO 10596 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1056 ms
+2019-09-12 09:15:55.446  INFO 10596 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:15:55.577  INFO 10596 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:15:55.614  INFO 10596 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:15:55.617  INFO 10596 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.888 seconds (JVM running for 2.701)
+2019-09-12 09:18:24.887  INFO 10596 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:18:24.888  INFO 10596 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:18:24.895  INFO 10596 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-09-12 09:18:24.912  INFO 10596 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:19:33.080  INFO 13868 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 13868 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:19:33.083  INFO 13868 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:19:33.121  INFO 13868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:19:33.121  INFO 13868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:19:34.000  INFO 13868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:19:34.019  INFO 13868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:19:34.019  INFO 13868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:19:34.131  INFO 13868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:19:34.131  INFO 13868 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1010 ms
+2019-09-12 09:19:34.307  INFO 13868 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:19:34.438  INFO 13868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:19:34.474  INFO 13868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:19:34.477  INFO 13868 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.813 seconds (JVM running for 2.68)
+2019-09-12 09:19:44.501  INFO 13868 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:19:44.502  INFO 13868 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:19:44.510  INFO 13868 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-09-12 09:19:44.526  INFO 13868 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:23:30.480  INFO 1740 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 1740 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:23:30.483  INFO 1740 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:23:30.532  INFO 1740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:23:30.532  INFO 1740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:23:31.443  INFO 1740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:23:31.462  INFO 1740 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:23:31.462  INFO 1740 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:23:31.575  INFO 1740 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:23:31.576  INFO 1740 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1044 ms
+2019-09-12 09:23:31.753  INFO 1740 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:23:31.887  INFO 1740 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:23:31.925  INFO 1740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:23:31.928  INFO 1740 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.925 seconds (JVM running for 2.735)
+2019-09-12 09:23:45.685  INFO 1740 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:23:45.685  INFO 1740 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:23:45.691  INFO 1740 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:23:45.708  INFO 1740 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:26:07.746  INFO 8956 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 8956 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:26:07.748  INFO 8956 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:26:07.799  INFO 8956 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:26:07.799  INFO 8956 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:26:08.714  INFO 8956 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:26:08.733  INFO 8956 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:26:08.733  INFO 8956 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:26:08.845  INFO 8956 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:26:08.846  INFO 8956 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1047 ms
+2019-09-12 09:26:09.022  INFO 8956 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:26:09.155  INFO 8956 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:26:09.191  INFO 8956 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:26:09.194  INFO 8956 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.865 seconds (JVM running for 2.731)
+2019-09-12 09:27:01.909  INFO 12808 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 12808 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:27:01.912  INFO 12808 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:27:01.968  INFO 12808 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:27:01.968  INFO 12808 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:27:02.943  INFO 12808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:27:02.962  INFO 12808 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:27:02.962  INFO 12808 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:27:03.074  INFO 12808 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:27:03.074  INFO 12808 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1106 ms
+2019-09-12 09:27:03.246  INFO 12808 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:27:03.381  INFO 12808 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:27:03.429  INFO 12808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:27:03.432  INFO 12808 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.986 seconds (JVM running for 2.874)
+2019-09-12 09:27:07.287  INFO 12808 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:27:07.287  INFO 12808 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:27:07.292  INFO 12808 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:27:07.310  INFO 12808 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:33:05.988  INFO 8868 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 8868 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:33:05.991  INFO 8868 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:33:06.034  INFO 8868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:33:06.034  INFO 8868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:33:07.136  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:33:07.159  INFO 8868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:33:07.159  INFO 8868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:33:07.275  INFO 8868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:33:07.275  INFO 8868 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1241 ms
+2019-09-12 09:33:07.449  INFO 8868 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:33:07.614  INFO 8868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:33:07.656  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:33:07.659  INFO 8868 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 2.149 seconds (JVM running for 3.038)
+2019-09-12 09:33:36.697  INFO 8868 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:33:36.698  INFO 8868 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:33:36.703  INFO 8868 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:33:36.739  INFO 8868 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:35:48.316  INFO 14308 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 14308 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:35:48.318  INFO 14308 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:35:48.373  INFO 14308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:35:48.373  INFO 14308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:35:49.409  INFO 14308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:35:49.430  INFO 14308 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:35:49.430  INFO 14308 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:35:49.554  INFO 14308 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:35:49.554  INFO 14308 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1181 ms
+2019-09-12 09:35:49.786  INFO 14308 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:35:49.930  INFO 14308 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:35:49.967  INFO 14308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:35:49.970  INFO 14308 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 2.102 seconds (JVM running for 2.905)
+2019-09-12 09:35:59.432  INFO 14308 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:35:59.433  INFO 14308 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:35:59.439  INFO 14308 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-12 09:35:59.456  INFO 14308 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:38:20.937  INFO 11072 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 11072 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:38:20.940  INFO 11072 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:38:21.000  INFO 11072 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:38:21.001  INFO 11072 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:38:21.947  INFO 11072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:38:21.972  INFO 11072 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:38:21.973  INFO 11072 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:38:22.090  INFO 11072 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:38:22.090  INFO 11072 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1089 ms
+2019-09-12 09:38:22.312  INFO 11072 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:38:22.452  INFO 11072 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:38:22.493  INFO 11072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:38:22.496  INFO 11072 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.992 seconds (JVM running for 2.92)
+2019-09-12 09:38:28.796  INFO 11072 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:38:28.797  INFO 11072 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:38:28.803  INFO 11072 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-12 09:38:28.821  INFO 11072 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:45:03.366  INFO 168 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 168 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:45:03.368  INFO 168 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:45:03.432  INFO 168 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:45:03.432  INFO 168 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:45:04.411  INFO 168 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:45:04.430  INFO 168 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:45:04.430  INFO 168 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:45:04.542  INFO 168 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:45:04.543  INFO 168 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1111 ms
+2019-09-12 09:45:04.717  INFO 168 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:45:04.852  INFO 168 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:45:04.891  INFO 168 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:45:04.894  INFO 168 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.898 seconds (JVM running for 2.745)
+2019-09-12 09:45:48.292  INFO 168 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:45:48.292  INFO 168 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:45:48.298  INFO 168 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:45:48.316  INFO 168 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:46:10.863  INFO 12196 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 12196 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:46:10.865  INFO 12196 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:46:10.906  INFO 12196 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:46:10.906  INFO 12196 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:46:11.919  INFO 12196 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:46:11.938  INFO 12196 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:46:11.938  INFO 12196 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:46:12.054  INFO 12196 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:46:12.054  INFO 12196 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1147 ms
+2019-09-12 09:46:12.240  INFO 12196 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:46:12.421  INFO 12196 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:46:12.460  INFO 12196 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:46:12.463  INFO 12196 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 2.048 seconds (JVM running for 2.983)
+2019-09-12 09:46:36.978  INFO 12196 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:46:36.978  INFO 12196 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:46:36.983  INFO 12196 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:46:37.004  INFO 12196 --- [http-nio-8090-exec-2] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 09:52:54.546  INFO 12664 --- [restartedMain] c.a.c.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 12664 (started by arkarmoe in D:\Backend Project\collocation-rental)
+2019-09-12 09:52:54.549  INFO 12664 --- [restartedMain] c.a.c.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 09:52:54.590  INFO 12664 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 09:52:54.590  INFO 12664 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 09:52:55.501  INFO 12664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 09:52:55.522  INFO 12664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 09:52:55.522  INFO 12664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 09:52:55.637  INFO 12664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 09:52:55.637  INFO 12664 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1047 ms
+2019-09-12 09:52:55.809  INFO 12664 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 09:52:55.942  INFO 12664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 09:52:55.979  INFO 12664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 09:52:55.982  INFO 12664 --- [restartedMain] c.a.c.CollocationRentalApplication       : Started CollocationRentalApplication in 1.833 seconds (JVM running for 2.945)
+2019-09-12 09:53:04.563  INFO 12664 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-12 09:53:04.564  INFO 12664 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-12 09:53:04.570  INFO 12664 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-09-12 09:53:04.585  INFO 12664 --- [http-nio-8090-exec-1] c.a.c.controller.ProjectController       : [START] Downloading the project export file.
+2019-09-12 10:09:37.476  INFO 9784 --- [restartedMain] c.a.f.CollocationRentalApplication       : Starting CollocationRentalApplication on user with PID 9784 (started by arkarmoe in D:\Backend Test\springboot_file_management_system)
+2019-09-12 10:09:37.479  INFO 9784 --- [restartedMain] c.a.f.CollocationRentalApplication       : No active profile set, falling back to default profiles: default
+2019-09-12 10:09:37.522  INFO 9784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-12 10:09:37.522  INFO 9784 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-12 10:09:38.487  INFO 9784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-09-12 10:09:38.506  INFO 9784 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-12 10:09:38.507  INFO 9784 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-12 10:09:38.622  INFO 9784 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-12 10:09:38.623  INFO 9784 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1101 ms
+2019-09-12 10:09:38.801  INFO 9784 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-12 10:09:38.938  INFO 9784 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-12 10:09:38.977  INFO 9784 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2019-09-12 10:09:38.980  INFO 9784 --- [restartedMain] c.a.f.CollocationRentalApplication       : Started CollocationRentalApplication in 2.063 seconds (JVM running for 3.356)
